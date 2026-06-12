@@ -1,0 +1,10 @@
+# Ambiente virtual (não versionar)
+.venv/
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Lixo do macOS
+.DS_Store
